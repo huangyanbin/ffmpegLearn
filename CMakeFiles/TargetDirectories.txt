@@ -1,0 +1,3 @@
+/home/huang/Desktop/code/CMakeFiles/rebuild_cache.dir
+/home/huang/Desktop/code/CMakeFiles/code.dir
+/home/huang/Desktop/code/CMakeFiles/edit_cache.dir

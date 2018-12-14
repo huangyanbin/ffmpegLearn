@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/code.dir/Helloword.c.o  -o code 
